@@ -2,18 +2,23 @@
 using namespace std;
 
 
-int entero = 1;
-string palabra = "palabra";
-float decimal = 1.5;
-bool verdad = true;
+int entero;
+string palabra;
+float decimal;
+bool verdad;
 
 int main()
 {
 
-    cout << "Un numero entero es" <<endl<<entero;
-    cout << "Un string es" <<endl<<palabra;
-    cout << "Un decimal" <<endl<<decimal;
-    cout << "Un  booleano es" <<endl<<verdad;
+    cout << "Escribe un numnero entero";
+    cin >> entero; 
+    cout << "Escribe una palabra";
+    cin >> palabra;
+    cout << "Escribe un numnero deimal";
+    cin >> decimal;
+    cout << "Escribe 1 o 0";
+    cin >> verdad;
+    cout << "El numero entero es " <<entero<< "Un palabra es"<< palabra << "Un decimal es "<< decimal << "y un boolenean es"<<verdad<<endl;
     
     
     return 0;
