@@ -1,13 +1,20 @@
 #include <iostream>
 using namespace std;
 
+
+int entero = 1;
+string palabra = "palabra";
+float decimal = 1.5;
+bool verdad = true;
+
 int main()
 {
-    int entero = 1;
-    char string = "String";
-    float decimal = 1.5;
 
     cout << "Un numero entero es" <<endl<<entero;
+    cout << "Un string es" <<endl<<palabra;
+    cout << "Un decimal" <<endl<<decimal;
+    cout << "Un  booleano es" <<endl<<verdad;
+    
     
     return 0;
 }
