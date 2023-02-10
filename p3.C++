@@ -6,22 +6,22 @@ using namespace std;
 int main()
 {
     const std:: string palabra1 = "Categoria";
-    const std:: string palabra1 = "Habilidades";
-    const std:: string palabra1 = "Haboculta";
+    const std:: string palabra2 = "Habilidades";
+    const std:: string palabra3 = "Haboculta";
     const std:: string palabra4 = "Peso";
-    const std:: string palabra1 = "Altura";
-    const std:: string palabra1 = "GrupoDeHuevo";
-    const std:: string palabra1 = "Sexo";
-    const std:: string palabra4 = "Habitat";
-    const std:: string palabra1 = "Color";
-    const std:: string palabra1 = "Generación";
-    const std:: string palabra1 = "Velocidad";
-    const std:: string palabra4 = "Fortaleza";
-    const std:: string palabra1 = "Precisión";
-    const std:: string palabra1 = "Resistencia";
-    const std:: string palabra1 = "Salto";
-    const std:: string palabra4 = "Total";
-    const std:: string palabra4 = "Media";
+    const std:: string palabra5 = "Altura";
+    const std:: string palabra6 = "GrupoDeHuevo";
+    const std:: string palabra7 = "Sexo";
+    const std:: string palabra8 = "Habitat";
+    const std:: string palabra9 = "Color";
+    const std:: string palabra10 = "Generación";
+    const std:: string palabra11 = "Velocidad";
+    const std:: string palabra12 = "Fortaleza";
+    const std:: string palabra13 = "Precisión";
+    const std:: string palabra14 = "Resistencia";
+    const std:: string palabra15 = "Salto";
+    const std:: string palabra16 = "Total";
+    const std:: string palabra17 = "Media";
     /********************************************************
     1 = string Categoria;
     2 = string Habilidades;
@@ -57,7 +57,7 @@ int main()
     cout << "Escribe el Habitat del pokemon";
     cin >> Habitat;//
     ***************************************************/
-    for(int i = 0; i <= 17 final; i = i +++)
+    for(int i = 1; i <= 17 final; i = i +++)
     {
     i = numero
     printf("Escribe la/el"<<numero<<"del pokemon"<<endl);
