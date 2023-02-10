@@ -1,29 +1,27 @@
 #include <iostream>
+#include <string>
+
 using namespace std;
 
 int main()
 {
-    for( int i=0; i<18; i++)
-    {
-        int = i       
-    }
-    1 == "Categoria";
-    2 == "Habilidades";
-    3 == "Haboculta";
-    4 == "Peso";
-    5 == "Altura";
-    6 == "GrupoDeHuevo";
-    7 == "Sexo";
-    8 == "Habitat";
-    9 == "Color";
-    10 == "Generación";
-    11 == "Velocidad";
-    12 == "Fortaleza";
-    13 == "Precisión";
-    14 == "Resistencia";
-    15 == "salto";
-    16 == "Total";
-    17 == "Media";
+    const std:: string palabra1 = "Categoria";
+    const std:: string palabra1 = "Habilidades";
+    const std:: string palabra1 = "Haboculta";
+    const std:: string palabra4 = "Peso";
+    const std:: string palabra1 = "Altura";
+    const std:: string palabra1 = "GrupoDeHuevo";
+    const std:: string palabra1 = "Sexo";
+    const std:: string palabra4 = "Habitat";
+    const std:: string palabra1 = "Color";
+    const std:: string palabra1 = "Generación";
+    const std:: string palabra1 = "Velocidad";
+    const std:: string palabra4 = "Fortaleza";
+    const std:: string palabra1 = "Precisión";
+    const std:: string palabra1 = "Resistencia";
+    const std:: string palabra1 = "Salto";
+    const std:: string palabra4 = "Total";
+    const std:: string palabra4 = "Media";
     /********************************************************
     1 = string Categoria;
     2 = string Habilidades;
