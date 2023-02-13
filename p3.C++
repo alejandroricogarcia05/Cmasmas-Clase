@@ -32,7 +32,7 @@ int main()
     cin >> respuesta[i];
     }
 
-    for (int i = 0; i < 18; i++) 
+    for (int i = 1; i < 18; i++) 
     {
     cout << "Tu pokemon tiene/es" << word[i] << "de"<< respuesta[i]<< endl;
     }
