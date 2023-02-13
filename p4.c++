@@ -1,6 +1,10 @@
 #include <iostream>
+#include <string>
 
-int main() {
+using namespace std;
+
+int main() 
+{
   int a, b, c, d, e, f;
   float resultado;
 
@@ -15,11 +19,12 @@ int main() {
   cout << "Ingrese el valor de e: ";
   cin >> e;
   cout << "Ingrese el valor de f: ";
-  scin >> f;
+  cin >> f;
 
   resultado = (a + (b / (float)c)) / (d + (e / (float)f));
 
   cout << "El resultado de f(x) es: " << resultado << std::endl;
 
+  
   return 0;
 }
