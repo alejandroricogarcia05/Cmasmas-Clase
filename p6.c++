@@ -26,7 +26,7 @@ int main() {
 
   return 0;
 }
-Este programa pide al usuario que ingrese la longitud de los tres lados del triángulo. Luego, utiliza una estructura selectiva if-else para determinar si el triángulo es equilátero, isósceles o escaleno, y almacena el resultado en una variable tipoTriangulo. Finalmente, imprime el resultado en la consola.
+
 
 
 
