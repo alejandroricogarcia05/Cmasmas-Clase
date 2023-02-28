@@ -11,6 +11,8 @@ int main()
         case 1:
             cout << "El dia seleccionado es lunes";
             break;
+        case 2:
+            cout 
         
 
     }
