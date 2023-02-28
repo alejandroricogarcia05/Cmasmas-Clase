@@ -11,24 +11,25 @@ int main()
         case 1:
             cout << "El dia seleccionado es lunes";
             break;
-        case 1:
-            cout << "El dia seleccionado es lunes";
+        case 2:
+            cout << "El dia seleccionado es martes";
             break;
-        case 1:
-            cout << "El dia seleccionado es lunes";
+        case 3:
+            cout << "El dia seleccionado es miercoles";
             break;
-        case 1:
-            cout << "El dia seleccionado es lunes";
+        case 4:
+            cout << "El dia seleccionado es jueves";
             break;
-        case 1:
-            cout << "El dia seleccionado es lunes";
+        case 5:
+            cout << "El dia seleccionado es viernes";
             break;
-        case 1:
-            cout << "El dia seleccionado es lunes";
+        case 6:
+            cout << "El dia seleccionado es sabado";
             break;
-        case 1:
-            cout << "El dia seleccionado es lunes";
+        case 7:
+            cout << "El dia seleccionado es domingo";
             break;
+        return 0
        
        
        
