@@ -5,7 +5,6 @@ using namespace std;
 
 int main() 
 {
-    int numero = 0;
     int sumatorio = 0;
     for(int i=0; i<201; i++) 
         {                                                                                                                                                                                       
