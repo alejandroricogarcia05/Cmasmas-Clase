@@ -11,16 +11,15 @@ int main()
         {                                                                                                                                                                                       
             if(i<200)
             {
-            if(i%2==0)
-            sumatorio= 0 + i;
-            i++;
+                if(i%2==0)
+                sumatorio+= 0 + i;
+                i++;
             }
             else
             {
-            cout<<sumatorio;
+                cout<<sumatorio;
             }
         }
-    return 0;    
-}        
-  
+    return 0;
+ 
   
