@@ -12,7 +12,7 @@ int main()
             if(i<200)
             {
             if(i%2==0)
-            sumatorio= numero + i;
+            sumatorio= 0 + i;
             i++;
             }
             else
