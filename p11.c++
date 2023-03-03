@@ -9,14 +9,18 @@ int main()
     int sumatorio = 0;
     for(int i=0; i<201; i++) 
         {                                                                                                                                                                                       
-        if(i<200)
+            if(i<200)
+            {
             if(i%2==0)
             sumatorio= numero + i;
             i++;
-        else
+            }
+            else
+            {
             cout<<sumatorio;
+            }
         }
-    return 0;
-        
-}
-
+    return 0;    
+}        
+  
+  
