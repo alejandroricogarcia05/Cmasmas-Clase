@@ -5,8 +5,9 @@ int main()
 {
     cout << "Imprima un numero del 1 al 7 ";
     cin >> numero;
+    int numero = 0;
 
-    switch(numero);
+    switch(numero)
     {
         case 1:
             cout << "El dia seleccionado es lunes";
