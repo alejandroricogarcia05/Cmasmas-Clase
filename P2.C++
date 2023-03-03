@@ -18,7 +18,7 @@ int main()
     cin >> decimal;
     cout << "Escribe 1 o 0";
     cin >> verdadero;
-    cout << "El numero entero es " <<entero<< "Un palabra es"<< palabra << "Un decimal es "<< decimal << "y un boolenean es"<<verdad<<endl;
+    cout << "El numero entero es " <<entero<< "Un palabra es"<< palabra << "Un decimal es "<< decimal << "y un boolenean es"<<verdadero<<endl;
     
     
     return 0;
