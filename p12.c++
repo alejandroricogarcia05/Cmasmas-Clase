@@ -8,7 +8,7 @@ int main()
     int respuesta[10];
     cout <<"Ingrese un numero del 1 al 10";
     cin >> numero;
-    switch(numero) //donde opción es la variable a comparar
+    switch(numero) 
     {
     case 1: 
         for (int i; i < 11; i++) 
@@ -101,6 +101,7 @@ int main()
 
     break;
     return 0;
-}   
+    }
+}  
 
 
